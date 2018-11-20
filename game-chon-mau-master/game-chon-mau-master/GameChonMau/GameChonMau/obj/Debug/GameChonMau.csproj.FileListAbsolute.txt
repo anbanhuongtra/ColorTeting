@@ -1,0 +1,20 @@
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\bin\Debug\GameChonMau.exe.config
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\bin\Debug\GameChonMau.exe
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\bin\Debug\GameChonMau.pdb
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.csprojAssemblyReference.cache
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.Form1.resources
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.Properties.Resources.resources
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.csproj.GenerateResource.cache
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.csproj.CoreCompileInputs.cache
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.exe
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.pdb
+C:\Users\Bui My Tien\Downloads\game-chon-mau-master\game-chon-mau-master\GameChonMau\GameChonMau\bin\Debug\GameChonMau.exe.config
+C:\Users\Bui My Tien\Downloads\game-chon-mau-master\game-chon-mau-master\GameChonMau\GameChonMau\bin\Debug\GameChonMau.exe
+C:\Users\Bui My Tien\Downloads\game-chon-mau-master\game-chon-mau-master\GameChonMau\GameChonMau\bin\Debug\GameChonMau.pdb
+C:\Users\Bui My Tien\Downloads\game-chon-mau-master\game-chon-mau-master\GameChonMau\GameChonMau\obj\Debug\GameChonMau.csprojAssemblyReference.cache
+C:\Users\Bui My Tien\Downloads\game-chon-mau-master\game-chon-mau-master\GameChonMau\GameChonMau\obj\Debug\GameChonMau.Form1.resources
+C:\Users\Bui My Tien\Downloads\game-chon-mau-master\game-chon-mau-master\GameChonMau\GameChonMau\obj\Debug\GameChonMau.Properties.Resources.resources
+C:\Users\Bui My Tien\Downloads\game-chon-mau-master\game-chon-mau-master\GameChonMau\GameChonMau\obj\Debug\GameChonMau.csproj.GenerateResource.cache
+C:\Users\Bui My Tien\Downloads\game-chon-mau-master\game-chon-mau-master\GameChonMau\GameChonMau\obj\Debug\GameChonMau.csproj.CoreCompileInputs.cache
+C:\Users\Bui My Tien\Downloads\game-chon-mau-master\game-chon-mau-master\GameChonMau\GameChonMau\obj\Debug\GameChonMau.exe
+C:\Users\Bui My Tien\Downloads\game-chon-mau-master\game-chon-mau-master\GameChonMau\GameChonMau\obj\Debug\GameChonMau.pdb
